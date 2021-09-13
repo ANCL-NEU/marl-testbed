@@ -1,7 +1,7 @@
 # Multi-Agent Pursuit game via RL
 Author: Yubin Wang
 
-Under construction........
+Just an experiment for research in MARL. Please incite the previous paper MAAC.
 
 This project is based on the Multi-Actor-Attention-Critic from Iqbal and Sha who are from USC. 
 
