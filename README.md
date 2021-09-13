@@ -1,5 +1,5 @@
 # Multi-Agent Pursuit game via RL
-Author: Marmot Lab
+Author: Yubin Wang
 
 Under construction........
 
